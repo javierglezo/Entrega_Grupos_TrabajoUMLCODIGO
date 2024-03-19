@@ -1,5 +1,5 @@
-#Trabajo herencias
-##Integrantes: Pablo Jiménez, Javier González, Alejandro Barreche, Rubén Elices
+# Trabajo herencias
+## Integrantes: Pablo Jiménez, Javier González, Alejandro Barreche, Rubén Elices
 
 En este repositorio se encuentran cuatro programas:
 
